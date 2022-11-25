@@ -16,7 +16,14 @@
 ## Framework
 <img src='docs/media/pipeline.jpg'/>
 
+## Input Videos (left column) and Colorized Videos (right column)
+
+<video src="./media/fanghua292.mp4"></video>
+<video src="./media/fanghua301.mp4"></video>
+<video src="./media/fanghua302.mp4"></video>
+
 ## To Do
+
 Release training code
 
 Release testing code
