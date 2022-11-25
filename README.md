@@ -7,8 +7,8 @@
 [Yixin Yang](https://imag-njust.net/)<sup>1</sup>,
 [Zhongzheng Peng](https://imag-njust.net/)<sup>1</sup>,
 [Xiaoyu Du](https://imag-njust.net/xiaoyu-du/)<sup>1</sup>,
-[Zhulin Tao](https://ices.cuc.edu.cn/2022/1028/c5332a200498/page.htm)<sup>2</sup> <br>
-[Jinhui Tang](https://imag-njust.net/jinhui-tang/)<sup>1</sup> <br>
+[Zhulin Tao](https://ices.cuc.edu.cn/2022/1028/c5332a200498/page.htm)<sup>2</sup>,
+[Jinhui Tang](https://imag-njust.net/jinhui-tang/)<sup>1</sup>,
 [Jinshan Pan](https://jspan.github.io/)<sup>1</sup> <br>
 
 <sup>1</sup>Nanjing University of Science and Technology, <sup>2</sup>Communication University of China
