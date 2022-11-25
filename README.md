@@ -18,9 +18,9 @@
 
 ## Input Videos (left column) and Colorized Videos (right column)
 
-<video src="./media/fanghua292.mp4"></video>
-<video src="./media/fanghua301.mp4"></video>
-<video src="./media/fanghua302.mp4"></video>
+<video id="teaser" autoplay="autoplay" controls="" muted="" loop="loop" height="100%">
+      <source src="./media/fanghua292.mp4" type="video/mp4", codecs="avc1.4d002a, mp4a.40.2">
+</video>
 
 ## To Do
 
