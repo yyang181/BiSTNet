@@ -13,7 +13,7 @@
 
 <sup>1</sup>Nanjing University of Science and Technology, <sup>2</sup>Communication University of China
 
-## **NTIRE2023 Video Colorization Challenge Champion 🏆**
+## **🔥 NTIRE2023 Video Colorization Challenge Champion 🏆**
 
 We are excited to announce that our method based on BiSTNet won 1st place in the [NTIRE2023 Video Colorization Challenge](https://tianchi.aliyun.com/competition/entrance/532054/rankingList/) Track 1, Fréchet Inception Distance (FID) Optimization! You can find our code and the pre-trained weights in the following links:
 
